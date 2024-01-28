@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LayoutDialog</class>
+ <widget class="QDialog" name="LayoutDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>411</width>
+    <height>485</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="11" column="0" colspan="2">
+    <widget class="QLabel" name="label_38">
+     <property name="text">
+      <string>NIP / Lisensi</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_31">
+     <property name="text">
+      <string>Kecamatan</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0">
+    <widget class="QLabel" name="label_30">
+     <property name="text">
+      <string>Nomor GU</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0" colspan="2">
+    <widget class="QLabel" name="label_34">
+     <property name="text">
+      <string>No Peta Kerja</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="0" colspan="7">
+    <widget class="Line" name="line_8">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QLabel" name="label_41">
+     <property name="text">
+      <string>Nama Kantah</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_nama_desa"/>
+   </item>
+   <item row="7" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_no_peta_kerja"/>
+   </item>
+   <item row="2" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_nama_kantah"/>
+   </item>
+   <item row="11" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_nomor"/>
+   </item>
+   <item row="8" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_nama"/>
+   </item>
+   <item row="0" column="2" colspan="5">
+    <widget class="QLineEdit" name="nomor_gu"/>
+   </item>
+   <item row="4" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_nama_kecamatan"/>
+   </item>
+   <item row="6" column="0" colspan="2">
+    <widget class="QLabel" name="label_33">
+     <property name="text">
+      <string>No Peta Pendaftaran</string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="0" colspan="2">
+    <widget class="QLabel" name="label_35">
+     <property name="text">
+      <string>Nama Petugas</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="0" colspan="2">
+    <widget class="QLabel" name="label_36">
+     <property name="text">
+      <string>Status</string>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="0" colspan="2">
+    <widget class="QLabel" name="label_37">
+     <property name="text">
+      <string>Nama KJSKB / PT</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="0">
+    <widget class="QLabel" name="label_32">
+     <property name="text">
+      <string>Desa</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_status"/>
+   </item>
+   <item row="1" column="0" colspan="7">
+    <widget class="Line" name="line_7">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="0" colspan="2">
+    <widget class="QLabel" name="label_39">
+     <property name="text">
+      <string>No &amp; Tgl Surat Tugas</string>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_surat_tugas"/>
+   </item>
+   <item row="10" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_instansi"/>
+   </item>
+   <item row="6" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_no_peta_pendaftaran"/>
+   </item>
+   <item row="15" column="6">
+    <widget class="QPushButton" name="btn_print_pdf">
+     <property name="text">
+      <string>Cetak PDF</string>
+     </property>
+    </widget>
+   </item>
+   <item row="15" column="2" colspan="3">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="15" column="5">
+    <widget class="QPushButton" name="btn_edit_layout">
+     <property name="text">
+      <string>Ubah Layout</string>
+     </property>
+    </widget>
+   </item>
+   <item row="14" column="0" colspan="7">
+    <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="15" column="0" colspan="2">
+    <widget class="QPushButton" name="btn_cancel">
+     <property name="text">
+      <string>Batalkan</string>
+     </property>
+    </widget>
+   </item>
+   <item row="13" column="0">
+    <widget class="QLabel" name="label_40">
+     <property name="text">
+      <string>Alat Ukur</string>
+     </property>
+    </widget>
+   </item>
+   <item row="13" column="2" colspan="5">
+    <widget class="QLineEdit" name="gu_pu_alat"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

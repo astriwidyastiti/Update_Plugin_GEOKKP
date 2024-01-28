@@ -1,0 +1,3491 @@
+{
+   "Aceh": [
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 104,
+         "WAK": "Aceh Barat",
+         "induk": 1,
+         "id": 0
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 119,
+         "WAK": "Aceh Barat Daya",
+         "induk": 1,
+         "id": 1
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 103,
+         "WAK": "Aceh Besar",
+         "induk": 1,
+         "id": 2
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 117,
+         "WAK": "Aceh Jaya",
+         "induk": 1,
+         "id": 3
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 105,
+         "WAK": "Aceh Selatan",
+         "induk": 1,
+         "id": 4
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 112,
+         "WAK": "Aceh Singkil",
+         "induk": 1,
+         "id": 5
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 115,
+         "WAK": "Aceh Tamiang",
+         "induk": 1,
+         "id": 6
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 109,
+         "WAK": "Aceh Tengah",
+         "induk": 1,
+         "id": 7
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 110,
+         "WAK": "Aceh Tenggara",
+         "induk": 1,
+         "id": 8
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 108,
+         "WAK": "Aceh Timur",
+         "induk": 1,
+         "id": 9
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 107,
+         "WAK": "Aceh Utara",
+         "induk": 1,
+         "id": 10
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 101,
+         "WAK": "Banda Aceh",
+         "induk": 1,
+         "id": 17
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 122,
+         "WAK": "Benermeriah",
+         "induk": 1,
+         "id": 39
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 111,
+         "WAK": "Bireuen",
+         "induk": 1,
+         "id": 51
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 120,
+         "WAK": "Gayolues",
+         "induk": 1,
+         "id": 81
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 118,
+         "WAK": "Langsa",
+         "induk": 1,
+         "id": 188
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 116,
+         "WAK": "Lhokseumawe",
+         "induk": 1,
+         "id": 191
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 114,
+         "WAK": "Nagan Raya",
+         "induk": 1,
+         "id": 240
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 106,
+         "WAK": "Pidie",
+         "induk": 1,
+         "id": 270
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 121,
+         "WAK": "Pidiejaya",
+         "induk": 1,
+         "id": 271
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 102,
+         "WAK": "Sabang",
+         "induk": 1,
+         "id": 284
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 113,
+         "WAK": "Simeulue",
+         "induk": 1,
+         "id": 304
+      },
+      {
+         "abv": "Aceh",
+         "KODE_BPN": 123,
+         "WAK": "Subulussalam",
+         "induk": 1,
+         "id": 312
+      }
+   ],
+   "Sumatera Barat": [
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 304,
+         "WAK": "Agam",
+         "induk": 3,
+         "id": 11
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 318,
+         "WAK": "Dharmasraya",
+         "induk": 3,
+         "id": 72
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 315,
+         "WAK": "Kepulauan Mentawai",
+         "induk": 3,
+         "id": 117
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 302,
+         "WAK": "Kota Bukittinggi",
+         "induk": 3,
+         "id": 142
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 301,
+         "WAK": "Kota Padang",
+         "induk": 3,
+         "id": 148
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 303,
+         "WAK": "Kota Padangpanjang",
+         "induk": 3,
+         "id": 149
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 316,
+         "WAK": "Kota Pariaman",
+         "induk": 3,
+         "id": 154
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 306,
+         "WAK": "Kota Payakumbuh",
+         "induk": 3,
+         "id": 155
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 312,
+         "WAK": "Kota Sawahlunto",
+         "induk": 3,
+         "id": 158
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 309,
+         "WAK": "Kota Solok",
+         "induk": 3,
+         "id": 160
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 305,
+         "WAK": "Limapuluhkota",
+         "induk": 3,
+         "id": 192
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 313,
+         "WAK": "Padang Pariaman",
+         "induk": 3,
+         "id": 251
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 307,
+         "WAK": "Pasaman",
+         "induk": 3,
+         "id": 260
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 317,
+         "WAK": "Pasaman Barat",
+         "induk": 3,
+         "id": 261
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 314,
+         "WAK": "Pesisir Selatan",
+         "induk": 3,
+         "id": 269
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 311,
+         "WAK": "Sijunjung",
+         "induk": 3,
+         "id": 301
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 308,
+         "WAK": "Solok",
+         "induk": 3,
+         "id": 307
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 319,
+         "WAK": "Solok Selatan",
+         "induk": 3,
+         "id": 308
+      },
+      {
+         "abv": "Sumbar",
+         "KODE_BPN": 310,
+         "WAK": "Tanahdatar",
+         "induk": 3,
+         "id": 322
+      }
+   ],
+   "Nusa Tenggara Timur": [
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2405,
+         "WAK": "Alor",
+         "induk": 24,
+         "id": 12
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2404,
+         "WAK": "Belu",
+         "induk": 24,
+         "id": 38
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2408,
+         "WAK": "Ende",
+         "induk": 24,
+         "id": 77
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2406,
+         "WAK": "Flores Timur",
+         "induk": 24,
+         "id": 80
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2413,
+         "WAK": "Kotamadya Kupang",
+         "induk": 24,
+         "id": 168
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2401,
+         "WAK": "Kupang",
+         "induk": 24,
+         "id": 174
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2407,
+         "WAK": "Sikka",
+         "induk": 24,
+         "id": 302
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2411,
+         "WAK": "Sumba Timur",
+         "induk": 24,
+         "id": 314
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2402,
+         "WAK": "Timortengah Selatan",
+         "induk": 24,
+         "id": 339
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2403,
+         "WAK": "Timortengah Timur",
+         "induk": 24,
+         "id": 340
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2418,
+         "WAK": "Sumba Tengah",
+         "induk": 24,
+         "id": 354
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2419,
+         "WAK": "Sumba Barat Daya",
+         "induk": 24,
+         "id": 355
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2412,
+         "WAK": "Sumba Barat",
+         "induk": 24,
+         "id": 356
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2421,
+         "WAK": "Sabu Raijua",
+         "induk": 24,
+         "id": 357
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2415,
+         "WAK": "Rote Ndao",
+         "induk": 24,
+         "id": 358
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2417,
+         "WAK": "Nagakeo",
+         "induk": 24,
+         "id": 359
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2420,
+         "WAK": "Manggarai Timur",
+         "induk": 24,
+         "id": 360
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2409,
+         "WAK": "Ngada",
+         "induk": 24,
+         "id": 361
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2410,
+         "WAK": "Manggarai",
+         "induk": 24,
+         "id": 362
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2416,
+         "WAK": "Manggarai Barat",
+         "induk": 24,
+         "id": 363
+      },
+      {
+         "abv": "NTT",
+         "KODE_BPN": 2414,
+         "WAK": "Lembata",
+         "induk": 24,
+         "id": 364
+      }
+   ],
+   "Sumatera Utara": [
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 207,
+         "WAK": "Asahan",
+         "induk": 2,
+         "id": 13
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 217,
+         "WAK": "Binjai",
+         "induk": 2,
+         "id": 49
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 205,
+         "WAK": "Dairi",
+         "induk": 2,
+         "id": 70
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 204,
+         "WAK": "Deliserdang",
+         "induk": 2,
+         "id": 71
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 222,
+         "WAK": "Humbanghasundutan",
+         "induk": 2,
+         "id": 95
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 206,
+         "WAK": "Karo",
+         "induk": 2,
+         "id": 108
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 216,
+         "WAK": "Kota Tebingtinggi",
+         "induk": 2,
+         "id": 165
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 212,
+         "WAK": "Labuhanbatu",
+         "induk": 2,
+         "id": 178
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 202,
+         "WAK": "Langkat",
+         "induk": 2,
+         "id": 187
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 218,
+         "WAK": "Mandailingnatal",
+         "induk": 2,
+         "id": 213
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 201,
+         "WAK": "Medan",
+         "induk": 2,
+         "id": 217
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 211,
+         "WAK": "Nias",
+         "induk": 2,
+         "id": 243
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 223,
+         "WAK": "Nias Selatan",
+         "induk": 2,
+         "id": 244
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 220,
+         "WAK": "Padangsidimpuan",
+         "induk": 2,
+         "id": 252
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 225,
+         "WAK": "Pak-pakbharat",
+         "induk": 2,
+         "id": 254
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 203,
+         "WAK": "Pematangsiantar",
+         "induk": 2,
+         "id": 266
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 224,
+         "WAK": "Samosir",
+         "induk": 2,
+         "id": 286
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 221,
+         "WAK": "Serdangbedagai",
+         "induk": 2,
+         "id": 295
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 213,
+         "WAK": "Sibolga",
+         "induk": 2,
+         "id": 298
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 209,
+         "WAK": "Simalungun",
+         "induk": 2,
+         "id": 303
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 208,
+         "WAK": "Tanjungbalai",
+         "induk": 2,
+         "id": 327
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 210,
+         "WAK": "Tapanuli Selatan",
+         "induk": 2,
+         "id": 330
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 214,
+         "WAK": "Tapanuli Tengah",
+         "induk": 2,
+         "id": 331
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 215,
+         "WAK": "Tapanuli Utara",
+         "induk": 2,
+         "id": 332
+      },
+      {
+         "abv": "Sumut",
+         "KODE_BPN": 219,
+         "WAK": "Tobasamosir",
+         "induk": 2,
+         "id": 341
+      }
+   ],
+   "Papua": [
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2620,
+         "WAK": "Asmat",
+         "induk": 26,
+         "id": 14
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2609,
+         "WAK": "Biak Numfor",
+         "induk": 26,
+         "id": 47
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2619,
+         "WAK": "Boven Digoel",
+         "induk": 26,
+         "id": 58
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2613,
+         "WAK": "Dogiyai",
+         "induk": 26,
+         "id": 73
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2610,
+         "WAK": "Jayapura",
+         "induk": 26,
+         "id": 98
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2603,
+         "WAK": "Jayawijaya",
+         "induk": 26,
+         "id": 99
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2615,
+         "WAK": "Keerom",
+         "induk": 26,
+         "id": 112
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2607,
+         "WAK": "Kepulauanyapen",
+         "induk": 26,
+         "id": 123
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2601,
+         "WAK": "Kota Jayapura",
+         "induk": 26,
+         "id": 147
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2628,
+         "WAK": "Lannyjaya",
+         "induk": 26,
+         "id": 189
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2626,
+         "WAK": "Mamberamo Tengah",
+         "induk": 26,
+         "id": 209
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2618,
+         "WAK": "Mappi",
+         "induk": 26,
+         "id": 215
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2605,
+         "WAK": "Merauke",
+         "induk": 26,
+         "id": 221
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2611,
+         "WAK": "Mimika",
+         "induk": 26,
+         "id": 223
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2613,
+         "WAK": "Nabire",
+         "induk": 26,
+         "id": 239
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2629,
+         "WAK": "Nduga",
+         "induk": 26,
+         "id": 242
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2602,
+         "WAK": "Paniai",
+         "induk": 26,
+         "id": 258
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2623,
+         "WAK": "Pegununganbintang",
+         "induk": 26,
+         "id": 263
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2614,
+         "WAK": "Puncakjaya",
+         "induk": 26,
+         "id": 279
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2616,
+         "WAK": "Sarmi",
+         "induk": 26,
+         "id": 288
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2609,
+         "WAK": "Supiori",
+         "induk": 26,
+         "id": 317
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2622,
+         "WAK": "Tolikara",
+         "induk": 26,
+         "id": 343
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2617,
+         "WAK": "Waropen",
+         "induk": 26,
+         "id": 350
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2621,
+         "WAK": "Yahukimo",
+         "induk": 26,
+         "id": 352
+      },
+      {
+         "abv": "Papua",
+         "KODE_BPN": 2627,
+         "WAK": "Yalimo",
+         "induk": 26,
+         "id": 353
+      }
+   ],
+   "Bali": [
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2203,
+         "WAK": "Badung",
+         "induk": 22,
+         "id": 15
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2207,
+         "WAK": "Bangli",
+         "induk": 22,
+         "id": 25
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2204,
+         "WAK": "Buleleng",
+         "induk": 22,
+         "id": 59
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2205,
+         "WAK": "Gianyar",
+         "induk": 22,
+         "id": 82
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2201,
+         "WAK": "Jembrana",
+         "induk": 22,
+         "id": 100
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2208,
+         "WAK": "Karangasem",
+         "induk": 22,
+         "id": 106
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2206,
+         "WAK": "Klungkung",
+         "induk": 22,
+         "id": 126
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2209,
+         "WAK": "Kota Denpasar",
+         "induk": 22,
+         "id": 143
+      },
+      {
+         "abv": "Bali",
+         "KODE_BPN": 2202,
+         "WAK": "Tabanan",
+         "induk": 22,
+         "id": 319
+      }
+   ],
+   "Kalimantan Selatan": [
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1713,
+         "WAK": "Balangan",
+         "induk": 17,
+         "id": 16
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1702,
+         "WAK": "Banjar",
+         "induk": 17,
+         "id": 26
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1709,
+         "WAK": "Barito Kuala",
+         "induk": 17,
+         "id": 29
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1704,
+         "WAK": "Hulusungai Selatan",
+         "induk": 17,
+         "id": 92
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1705,
+         "WAK": "Hulusungai Tengah",
+         "induk": 17,
+         "id": 93
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1706,
+         "WAK": "Hulusungai Utara",
+         "induk": 17,
+         "id": 94
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1711,
+         "WAK": "Kota Banjarbaru",
+         "induk": 17,
+         "id": 137
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1701,
+         "WAK": "Kota Banjarmasin",
+         "induk": 17,
+         "id": 138
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1710,
+         "WAK": "Kotabaru",
+         "induk": 17,
+         "id": 167
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1707,
+         "WAK": "Tabalong",
+         "induk": 17,
+         "id": 318
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1712,
+         "WAK": "Tanahbumbu",
+         "induk": 17,
+         "id": 321
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1708,
+         "WAK": "Tanahlaut",
+         "induk": 17,
+         "id": 323
+      },
+      {
+         "abv": "Kalsel",
+         "KODE_BPN": 1703,
+         "WAK": "Tapin",
+         "induk": 17,
+         "id": 333
+      }
+   ],
+   "Lampung": [
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 801,
+         "WAK": "Bandar Lampung",
+         "induk": 8,
+         "id": 18
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 805,
+         "WAK": "Lampung Barat",
+         "induk": 8,
+         "id": 181
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 802,
+         "WAK": "Lampung Selatan",
+         "induk": 8,
+         "id": 182
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 803,
+         "WAK": "Lampung Tengah",
+         "induk": 8,
+         "id": 183
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 810,
+         "WAK": "Lampung Timur",
+         "induk": 8,
+         "id": 184
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 804,
+         "WAK": "Lampung Utara",
+         "induk": 8,
+         "id": 185
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 808,
+         "WAK": "Metro",
+         "induk": 8,
+         "id": 222
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 811,
+         "WAK": "Pesawaran",
+         "induk": 8,
+         "id": 268
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 812,
+         "WAK": "Pringsewu",
+         "induk": 8,
+         "id": 277
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 807,
+         "WAK": "Tanggamus",
+         "induk": 8,
+         "id": 326
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 813,
+         "WAK": "Tulangbawang Barat",
+         "induk": 8,
+         "id": 347
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 809,
+         "WAK": "Waykanan",
+         "induk": 8,
+         "id": 351
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 814,
+         "WAK": "Mesuji",
+         "induk": 8,
+         "id": 483
+      },
+      {
+         "abv": "Lampung",
+         "KODE_BPN": 806,
+         "WAK": "Tulang Bawang",
+         "induk": 8,
+         "id": 484
+      }
+   ],
+   "Sulawesi Tengah": [
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1903,
+         "WAK": "Banggai",
+         "induk": 19,
+         "id": 19
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1909,
+         "WAK": "Banggai Kepulauan",
+         "induk": 19,
+         "id": 20
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1907,
+         "WAK": "Buol",
+         "induk": 19,
+         "id": 63
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1901,
+         "WAK": "Donggala",
+         "induk": 19,
+         "id": 75
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1905,
+         "WAK": "Kota Palu",
+         "induk": 19,
+         "id": 151
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1906,
+         "WAK": "Morowali",
+         "induk": 19,
+         "id": 229
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1913,
+         "WAK": "Morowali",
+         "induk": 19,
+         "id": 230
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1913,
+         "WAK": "Morowali Utara",
+         "induk": 19,
+         "id": 231
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1908,
+         "WAK": "Parigimoutong",
+         "induk": 19,
+         "id": 259
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1904,
+         "WAK": "Poso",
+         "induk": 19,
+         "id": 275
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1911,
+         "WAK": "Sigi",
+         "induk": 19,
+         "id": 300
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1910,
+         "WAK": "Tojouna-una",
+         "induk": 19,
+         "id": 342
+      },
+      {
+         "abv": "Sulteng",
+         "KODE_BPN": 1902,
+         "WAK": "Tolitoli",
+         "induk": 19,
+         "id": 344
+      }
+   ],
+   "Kepulauan Bangka Belitung": [
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2902,
+         "WAK": "Bangka",
+         "induk": 29,
+         "id": 21
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2906,
+         "WAK": "Bangka Barat",
+         "induk": 29,
+         "id": 22
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2905,
+         "WAK": "Bangka Selatan",
+         "induk": 29,
+         "id": 23
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2904,
+         "WAK": "Bangka Tengah",
+         "induk": 29,
+         "id": 24
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2903,
+         "WAK": "Belitung",
+         "induk": 29,
+         "id": 36
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2907,
+         "WAK": "Belitung Timur",
+         "induk": 29,
+         "id": 37
+      },
+      {
+         "abv": "Babel",
+         "KODE_BPN": 2901,
+         "WAK": "Kota Pangkalpinang",
+         "induk": 29,
+         "id": 152
+      }
+   ],
+   "Sulawesi Selatan": [
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2022,
+         "WAK": "Bantaeng",
+         "induk": 20,
+         "id": 27
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2007,
+         "WAK": "Barru",
+         "induk": 20,
+         "id": 33
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2016,
+         "WAK": "Bone",
+         "induk": 20,
+         "id": 56
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2023,
+         "WAK": "Bulukumba",
+         "induk": 20,
+         "id": 60
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2021,
+         "WAK": "Enrekang",
+         "induk": 20,
+         "id": 78
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2002,
+         "WAK": "Gowa",
+         "induk": 20,
+         "id": 85
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2004,
+         "WAK": "Jeneponto",
+         "induk": 20,
+         "id": 101
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2018,
+         "WAK": "Kota Pare-pare",
+         "induk": 20,
+         "id": 153
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2008,
+         "WAK": "Luwu",
+         "induk": 20,
+         "id": 198
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2026,
+         "WAK": "Luwu Timur",
+         "induk": 20,
+         "id": 199
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2024,
+         "WAK": "Luwu Utara",
+         "induk": 20,
+         "id": 200
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2001,
+         "WAK": "Makassar",
+         "induk": 20,
+         "id": 202
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2005,
+         "WAK": "Maros",
+         "induk": 20,
+         "id": 216
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2025,
+         "WAK": "Palopo",
+         "induk": 20,
+         "id": 256
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2006,
+         "WAK": "Pangkajene Dan Kepulauan",
+         "induk": 20,
+         "id": 257
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2019,
+         "WAK": "Pinrang",
+         "induk": 20,
+         "id": 272
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2015,
+         "WAK": "Selayar",
+         "induk": 20,
+         "id": 291
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2020,
+         "WAK": "Sidenrengrappang",
+         "induk": 20,
+         "id": 299
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2012,
+         "WAK": "Sinjai",
+         "induk": 20,
+         "id": 305
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2011,
+         "WAK": "Soppeng",
+         "induk": 20,
+         "id": 309
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2003,
+         "WAK": "Takalar",
+         "induk": 20,
+         "id": 320
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2009,
+         "WAK": "Tanatoraja",
+         "induk": 20,
+         "id": 325
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2027,
+         "WAK": "Toraja Utara",
+         "induk": 20,
+         "id": 346
+      },
+      {
+         "abv": "Sulsel",
+         "KODE_BPN": 2017,
+         "WAK": "Wajo",
+         "induk": 20,
+         "id": 348
+      }
+   ],
+   "Sumatera Selatan": [
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 414,
+         "WAK": "Banyuasin",
+         "induk": 4,
+         "id": 28
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 418,
+         "WAK": "Empat Lawang",
+         "induk": 4,
+         "id": 76
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 405,
+         "WAK": "Lahat",
+         "induk": 4,
+         "id": 179
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 413,
+         "WAK": "Lubuklinggau",
+         "induk": 4,
+         "id": 197
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 406,
+         "WAK": "Muaraenim",
+         "induk": 4,
+         "id": 232
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 409,
+         "WAK": "Musibanyuasin",
+         "induk": 4,
+         "id": 237
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 410,
+         "WAK": "Musirawas",
+         "induk": 4,
+         "id": 238
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 416,
+         "WAK": "Ogan Ilir",
+         "induk": 4,
+         "id": 246
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 407,
+         "WAK": "Ogankomering Ilir",
+         "induk": 4,
+         "id": 247
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 408,
+         "WAK": "Ogankomering Ulu",
+         "induk": 4,
+         "id": 248
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 417,
+         "WAK": "Ogankomeringulu Selatan",
+         "induk": 4,
+         "id": 249
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 415,
+         "WAK": "Ogankomeringulu Timur",
+         "induk": 4,
+         "id": 250
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 411,
+         "WAK": "Pagaralam",
+         "induk": 4,
+         "id": 253
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 401,
+         "WAK": "Palembang",
+         "induk": 4,
+         "id": 255
+      },
+      {
+         "abv": "Sumsel",
+         "KODE_BPN": 412,
+         "WAK": "Prabumulih",
+         "induk": 4,
+         "id": 276
+      }
+   ],
+   "Kalimantan Tengah": [
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1503,
+         "WAK": "Barito Selatan",
+         "induk": 15,
+         "id": 30
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1513,
+         "WAK": "Barito Timur",
+         "induk": 15,
+         "id": 31
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1504,
+         "WAK": "Barito Utara",
+         "induk": 15,
+         "id": 32
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1507,
+         "WAK": "Gunungmas",
+         "induk": 15,
+         "id": 86
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1502,
+         "WAK": "Kapuas",
+         "induk": 15,
+         "id": 104
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1510,
+         "WAK": "Katingan",
+         "induk": 15,
+         "id": 109
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1501,
+         "WAK": "Kota Palangkaraya",
+         "induk": 15,
+         "id": 150
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1506,
+         "WAK": "Kotawaringin Barat",
+         "induk": 15,
+         "id": 170
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1505,
+         "WAK": "Kotawaringin Timur",
+         "induk": 15,
+         "id": 171
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1512,
+         "WAK": "Lamandau",
+         "induk": 15,
+         "id": 180
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1508,
+         "WAK": "Murung Raya",
+         "induk": 15,
+         "id": 236
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1509,
+         "WAK": "Pulangpisau",
+         "induk": 15,
+         "id": 278
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1511,
+         "WAK": "Seruyan",
+         "induk": 15,
+         "id": 296
+      },
+      {
+         "abv": "Kalteng",
+         "KODE_BPN": 1514,
+         "WAK": "Sukamara",
+         "induk": 15,
+         "id": 313
+      }
+   ],
+   "Jambi": [
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 602,
+         "WAK": "Batanghari",
+         "induk": 6,
+         "id": 34
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 603,
+         "WAK": "Bungo",
+         "induk": 6,
+         "id": 62
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 605,
+         "WAK": "Kerinci",
+         "induk": 6,
+         "id": 124
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 601,
+         "WAK": "Kota Jambi",
+         "induk": 6,
+         "id": 146
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 612,
+         "WAK": "Kota Sungaipenuh",
+         "induk": 6,
+         "id": 162
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 604,
+         "WAK": "Merangin",
+         "induk": 6,
+         "id": 220
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 610,
+         "WAK": "Muarojambi",
+         "induk": 6,
+         "id": 233
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 608,
+         "WAK": "Sarolangun",
+         "induk": 6,
+         "id": 289
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 607,
+         "WAK": "Tanjungjabung Barat",
+         "induk": 6,
+         "id": 328
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 611,
+         "WAK": "Tanjungjabung Timur",
+         "induk": 6,
+         "id": 329
+      },
+      {
+         "abv": "Jambi",
+         "KODE_BPN": 609,
+         "WAK": "Tebo",
+         "induk": 6,
+         "id": 334
+      }
+   ],
+   "Sulawesi Tenggara": [
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2106,
+         "WAK": "Bau-bau",
+         "induk": 21,
+         "id": 35
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2109,
+         "WAK": "Bombana",
+         "induk": 21,
+         "id": 55
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2103,
+         "WAK": "Buton",
+         "induk": 21,
+         "id": 66
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2115,
+         "WAK": "Buton Selatan",
+         "induk": 21,
+         "id": 67
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2112,
+         "WAK": "Buton Utara",
+         "induk": 21,
+         "id": 68
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2116,
+         "WAK": "Butontengah",
+         "induk": 21,
+         "id": 69
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2105,
+         "WAK": "Kendari",
+         "induk": 21,
+         "id": 113
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2102,
+         "WAK": "Kolaka",
+         "induk": 21,
+         "id": 128
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2113,
+         "WAK": "Kolaka Timur",
+         "induk": 21,
+         "id": 129
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2108,
+         "WAK": "Kolaka Utara",
+         "induk": 21,
+         "id": 130
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2101,
+         "WAK": "Konawe",
+         "induk": 21,
+         "id": 131
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2114,
+         "WAK": "Konawe Kepulauan",
+         "induk": 21,
+         "id": 132
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2107,
+         "WAK": "Konawe Selatan",
+         "induk": 21,
+         "id": 133
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2111,
+         "WAK": "Konawe Utara",
+         "induk": 21,
+         "id": 134
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2104,
+         "WAK": "Muna",
+         "induk": 21,
+         "id": 235
+      },
+      {
+         "abv": "Sultra",
+         "KODE_BPN": 2110,
+         "WAK": "Wakatobi",
+         "induk": 21,
+         "id": 349
+      }
+   ],
+   "Riau": [
+      {
+         "abv": "Riau",
+         "KODE_BPN": 502,
+         "WAK": "Bengkalis",
+         "induk": 5,
+         "id": 40
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 504,
+         "WAK": "Indragiri Hilir",
+         "induk": 5,
+         "id": 96
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 503,
+         "WAK": "Indragiri Hulu",
+         "induk": 5,
+         "id": 97
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 505,
+         "WAK": "Kampar",
+         "induk": 5,
+         "id": 103
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 517,
+         "WAK": "Kepulauan Meranti",
+         "induk": 5,
+         "id": 118
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 508,
+         "WAK": "Kota Dumai",
+         "induk": 5,
+         "id": 144
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 514,
+         "WAK": "Kuantansengingi",
+         "induk": 5,
+         "id": 172
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 501,
+         "WAK": "Pekanbaru",
+         "induk": 5,
+         "id": 264
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 516,
+         "WAK": "Pelalawan",
+         "induk": 5,
+         "id": 265
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 510,
+         "WAK": "Rokan Hilir",
+         "induk": 5,
+         "id": 282
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 509,
+         "WAK": "Rokan Hulu",
+         "induk": 5,
+         "id": 283
+      },
+      {
+         "abv": "Riau",
+         "KODE_BPN": 511,
+         "WAK": "Siak",
+         "induk": 5,
+         "id": 297
+      }
+   ],
+   "Kalimantan Barat": [
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1410,
+         "WAK": "Bengkayang",
+         "induk": 14,
+         "id": 41
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1406,
+         "WAK": "Kapuas Hulu",
+         "induk": 14,
+         "id": 105
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1413,
+         "WAK": "Kayong Utara",
+         "induk": 14,
+         "id": 111
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1407,
+         "WAK": "Ketapang",
+         "induk": 14,
+         "id": 125
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1401,
+         "WAK": "Kota Pontianak",
+         "induk": 14,
+         "id": 156
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1409,
+         "WAK": "Kota Singkawang",
+         "induk": 14,
+         "id": 159
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1414,
+         "WAK": "Kuburaya",
+         "induk": 14,
+         "id": 173
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1408,
+         "WAK": "Landak",
+         "induk": 14,
+         "id": 186
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1412,
+         "WAK": "Melawi",
+         "induk": 14,
+         "id": 218
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1402,
+         "WAK": "Mempawah",
+         "induk": 14,
+         "id": 219
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1403,
+         "WAK": "Sambas",
+         "induk": 14,
+         "id": 285
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1404,
+         "WAK": "Sanggau",
+         "induk": 14,
+         "id": 287
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1411,
+         "WAK": "Sekadau",
+         "induk": 14,
+         "id": 290
+      },
+      {
+         "abv": "Kalbar",
+         "KODE_BPN": 1405,
+         "WAK": "Sintang",
+         "induk": 14,
+         "id": 306
+      }
+   ],
+   "Bengkulu": [
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 704,
+         "WAK": "Bengkulu",
+         "induk": 7,
+         "id": 42
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 703,
+         "WAK": "Bengkulu Selatan",
+         "induk": 7,
+         "id": 43
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 710,
+         "WAK": "Bengkulu Tengah",
+         "induk": 7,
+         "id": 44
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 702,
+         "WAK": "Bengkulu Utara",
+         "induk": 7,
+         "id": 45
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 705,
+         "WAK": "Kaur",
+         "induk": 7,
+         "id": 110
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 707,
+         "WAK": "Kepahiang",
+         "induk": 7,
+         "id": 114
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 709,
+         "WAK": "Lebong",
+         "induk": 7,
+         "id": 190
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 708,
+         "WAK": "Muko-muko",
+         "induk": 7,
+         "id": 234
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 701,
+         "WAK": "Rejang Lebong",
+         "induk": 7,
+         "id": 281
+      },
+      {
+         "abv": "Bengkulu",
+         "KODE_BPN": 706,
+         "WAK": "Seluma",
+         "induk": 7,
+         "id": 292
+      }
+   ],
+   "Kalimantan Timur": [
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1605,
+         "WAK": "Berau",
+         "induk": 16,
+         "id": 46
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1606,
+         "WAK": "Bulungan",
+         "induk": 16,
+         "id": 61
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1602,
+         "WAK": "Kota Balikpapan",
+         "induk": 16,
+         "id": 136
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1610,
+         "WAK": "Kota Bontang",
+         "induk": 16,
+         "id": 141
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1601,
+         "WAK": "Kota Samarinda",
+         "induk": 16,
+         "id": 157
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1607,
+         "WAK": "Kota Tarakan",
+         "induk": 16,
+         "id": 164
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1611,
+         "WAK": "Kutai Barat",
+         "induk": 16,
+         "id": 175
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1609,
+         "WAK": "Kutai Timur",
+         "induk": 16,
+         "id": 176
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1603,
+         "WAK": "Kutaikartanegara",
+         "induk": 16,
+         "id": 177
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1613,
+         "WAK": "Malinau",
+         "induk": 16,
+         "id": 203
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1608,
+         "WAK": "Nunukan",
+         "induk": 16,
+         "id": 245
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1604,
+         "WAK": "Paser",
+         "induk": 16,
+         "id": 262
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1612,
+         "WAK": "Penajampaser Utara",
+         "induk": 16,
+         "id": 267
+      },
+      {
+         "abv": "Kaltim",
+         "KODE_BPN": 1614,
+         "WAK": "Tanatidung",
+         "induk": 16,
+         "id": 324
+      }
+   ],
+   "Nusa Tenggara Barat": [
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2306,
+         "WAK": "Bima",
+         "induk": 23,
+         "id": 48
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2305,
+         "WAK": "Dompu",
+         "induk": 23,
+         "id": 74
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2307,
+         "WAK": "Kodya Mataram",
+         "induk": 23,
+         "id": 127
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2308,
+         "WAK": "Kota Bima",
+         "induk": 23,
+         "id": 140
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2301,
+         "WAK": "Lombok Barat",
+         "induk": 23,
+         "id": 194
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2302,
+         "WAK": "Lombok Tengah",
+         "induk": 23,
+         "id": 195
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2303,
+         "WAK": "Lombok Timur",
+         "induk": 23,
+         "id": 196
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2304,
+         "WAK": "Sumbawa",
+         "induk": 23,
+         "id": 315
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2309,
+         "WAK": "Sumbawa Barat",
+         "induk": 23,
+         "id": 316
+      },
+      {
+         "abv": "NTB",
+         "KODE_BPN": 2310,
+         "WAK": "Lombok Utara",
+         "induk": 23,
+         "id": 365
+      }
+   ],
+   "Kepulauan Riau": [
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3201,
+         "WAK": "Bintan",
+         "induk": 32,
+         "id": 50
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3203,
+         "WAK": "Karimun",
+         "induk": 32,
+         "id": 107
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3207,
+         "WAK": "Kepulauan Anambas",
+         "induk": 32,
+         "id": 115
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3202,
+         "WAK": "Kota Batam",
+         "induk": 32,
+         "id": 139
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3205,
+         "WAK": "Kota Tanjungpinang",
+         "induk": 32,
+         "id": 163
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3206,
+         "WAK": "Lingga",
+         "induk": 32,
+         "id": 193
+      },
+      {
+         "abv": "Kepri",
+         "KODE_BPN": 3204,
+         "WAK": "Natuna",
+         "induk": 32,
+         "id": 241
+      }
+   ],
+   "Sulawesi Utara": [
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1807,
+         "WAK": "Bitung",
+         "induk": 18,
+         "id": 52
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1814,
+         "WAK": "Bolaangmongondow Utara",
+         "induk": 18,
+         "id": 54
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1806,
+         "WAK": "Kepulauan Sangihe",
+         "induk": 18,
+         "id": 119
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1815,
+         "WAK": "Kepulauan Siau Tagulandang Biaro",
+         "induk": 18,
+         "id": 120
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1808,
+         "WAK": "Kepulauan Talaud",
+         "induk": 18,
+         "id": 122
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1812,
+         "WAK": "Kotamobagu",
+         "induk": 18,
+         "id": 169
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1801,
+         "WAK": "Manado",
+         "induk": 18,
+         "id": 212
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1803,
+         "WAK": "Minahasa",
+         "induk": 18,
+         "id": 224
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1811,
+         "WAK": "Minahasa Selatan",
+         "induk": 18,
+         "id": 225
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1813,
+         "WAK": "Minahasa Tenggara",
+         "induk": 18,
+         "id": 226
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1810,
+         "WAK": "Minahasa Utara",
+         "induk": 18,
+         "id": 227
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1809,
+         "WAK": "Tomohon",
+         "induk": 18,
+         "id": 345
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1805,
+         "WAK": "Bolaangmongondow",
+         "induk": 18,
+         "id": 480
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1817,
+         "WAK": "Bolaangmongondow Selatan",
+         "induk": 18,
+         "id": 481
+      },
+      {
+         "abv": "Sulut",
+         "KODE_BPN": 1816,
+         "WAK": "Bolaangmongondow Timur",
+         "induk": 18,
+         "id": 482
+      }
+   ],
+   "Gorontalo": [
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3003,
+         "WAK": "Boalemo",
+         "induk": 30,
+         "id": 53
+      },
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3005,
+         "WAK": "Bonebolango",
+         "induk": 30,
+         "id": 57
+      },
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3002,
+         "WAK": "Gorontalo",
+         "induk": 30,
+         "id": 83
+      },
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3006,
+         "WAK": "Gorontalo Utara",
+         "induk": 30,
+         "id": 84
+      },
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3001,
+         "WAK": "Kota Gorontalo",
+         "induk": 30,
+         "id": 145
+      },
+      {
+         "abv": "Gorontalo",
+         "KODE_BPN": 3004,
+         "WAK": "Pohuwato",
+         "induk": 30,
+         "id": 273
+      }
+   ],
+   "Maluku": [
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2507,
+         "WAK": "Buru",
+         "induk": 25,
+         "id": 64
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2504,
+         "WAK": "Buru Selatan",
+         "induk": 25,
+         "id": 65
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2510,
+         "WAK": "Kepulauan Aru",
+         "induk": 25,
+         "id": 116
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2505,
+         "WAK": "Kota Ambon",
+         "induk": 25,
+         "id": 135
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2503,
+         "WAK": "Kota Tual",
+         "induk": 25,
+         "id": 166
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2511,
+         "WAK": "Maluku Barat Daya",
+         "induk": 25,
+         "id": 204
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2501,
+         "WAK": "Maluku Tengah",
+         "induk": 25,
+         "id": 205
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2502,
+         "WAK": "Maluku Tenggara",
+         "induk": 25,
+         "id": 206
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2506,
+         "WAK": "Maluku Tenggara Barat",
+         "induk": 25,
+         "id": 207
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2509,
+         "WAK": "Seram Bagian Barat",
+         "induk": 25,
+         "id": 293
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2508,
+         "WAK": "Seram Bagian Timur",
+         "induk": 25,
+         "id": 294
+      }
+   ],
+   "Papua Barat": [
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3304,
+         "WAK": "Fak-fak",
+         "induk": 33,
+         "id": 79
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3307,
+         "WAK": "Kaimana",
+         "induk": 33,
+         "id": 102
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3302,
+         "WAK": "Kota Sorong",
+         "induk": 33,
+         "id": 161
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3301,
+         "WAK": "Manokwari",
+         "induk": 33,
+         "id": 214
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3306,
+         "WAK": "Rajaampat",
+         "induk": 33,
+         "id": 280
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3303,
+         "WAK": "Sorong",
+         "induk": 33,
+         "id": 310
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3305,
+         "WAK": "Sorong Selatan",
+         "induk": 33,
+         "id": 311
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3308,
+         "WAK": "Teluk Bintuni",
+         "induk": 33,
+         "id": 335
+      },
+      {
+         "abv": "Pabar",
+         "KODE_BPN": 3310,
+         "WAK": "Teluk Wondama",
+         "induk": 33,
+         "id": 336
+      }
+   ],
+   "Maluku Utara": [
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2702,
+         "WAK": "Halmahera Barat",
+         "induk": 27,
+         "id": 87
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2705,
+         "WAK": "Halmahera Selatan",
+         "induk": 27,
+         "id": 88
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2703,
+         "WAK": "Halmahera Tengah",
+         "induk": 27,
+         "id": 89
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2707,
+         "WAK": "Halmahera Timur",
+         "induk": 27,
+         "id": 90
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2706,
+         "WAK": "Halmahera Utara",
+         "induk": 27,
+         "id": 91
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2708,
+         "WAK": "Kepulauan Sula",
+         "induk": 27,
+         "id": 121
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2709,
+         "WAK": "Morotai",
+         "induk": 27,
+         "id": 228
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2701,
+         "WAK": "Ternate",
+         "induk": 27,
+         "id": 337
+      },
+      {
+         "abv": "Maluku",
+         "KODE_BPN": 2704,
+         "WAK": "Tidore Kepulauan",
+         "induk": 27,
+         "id": 338
+      }
+   ],
+   "Sulawesi Barat": [
+      {
+         "abv": "Sulbar",
+         "KODE_BPN": 3104,
+         "WAK": "Majene",
+         "induk": 31,
+         "id": 201
+      },
+      {
+         "abv": "Sulbar",
+         "KODE_BPN": 3101,
+         "WAK": "Mamasa",
+         "induk": 31,
+         "id": 208
+      },
+      {
+         "abv": "Sulbar",
+         "KODE_BPN": 3105,
+         "WAK": "Mamuju",
+         "induk": 31,
+         "id": 210
+      },
+      {
+         "abv": "Sulbar",
+         "KODE_BPN": 3107,
+         "WAK": "Mamuju Utara",
+         "induk": 31,
+         "id": 211
+      },
+      {
+         "abv": "Sulbar",
+         "KODE_BPN": 3103,
+         "WAK": "Polewali Mandar",
+         "induk": 31,
+         "id": 274
+      }
+   ],
+   "Jawa Tengah": [
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1125,
+         "WAK": "Wonosobo",
+         "induk": 11,
+         "id": 366
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1115,
+         "WAK": "Kudus",
+         "induk": 11,
+         "id": 367
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1109,
+         "WAK": "Demak",
+         "induk": 11,
+         "id": 368
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1131,
+         "WAK": "Pekalongan",
+         "induk": 11,
+         "id": 371
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1123,
+         "WAK": "Kebumen",
+         "induk": 11,
+         "id": 372
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1130,
+         "WAK": "Cilacap",
+         "induk": 11,
+         "id": 373
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1101,
+         "WAK": "Kota Semarang",
+         "induk": 11,
+         "id": 375
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1108,
+         "WAK": "Kendal",
+         "induk": 11,
+         "id": 377
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1111,
+         "WAK": "Pati",
+         "induk": 11,
+         "id": 382
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1132,
+         "WAK": "Batang",
+         "induk": 11,
+         "id": 383
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1116,
+         "WAK": "Sukoharjo",
+         "induk": 11,
+         "id": 386
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1121,
+         "WAK": "Wonogiri",
+         "induk": 11,
+         "id": 396
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1102,
+         "WAK": "Kota Surakarta",
+         "induk": 11,
+         "id": 398
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1106,
+         "WAK": "Kota Tegal",
+         "induk": 11,
+         "id": 402
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1120,
+         "WAK": "Sragen",
+         "induk": 11,
+         "id": 406
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1135,
+         "WAK": "Tegal",
+         "induk": 11,
+         "id": 409
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1112,
+         "WAK": "Blora",
+         "induk": 11,
+         "id": 410
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1105,
+         "WAK": "Kota Pekalongan",
+         "induk": 11,
+         "id": 415
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1114,
+         "WAK": "Rembang",
+         "induk": 11,
+         "id": 417
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1139,
+         "WAK": "Purbalingga",
+         "induk": 11,
+         "id": 430
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1103,
+         "WAK": "Kota Salatiga",
+         "induk": 11,
+         "id": 431
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1107,
+         "WAK": "Semarang",
+         "induk": 11,
+         "id": 435
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1122,
+         "WAK": "Kota Magelang",
+         "induk": 11,
+         "id": 437
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1127,
+         "WAK": "Banyumas",
+         "induk": 11,
+         "id": 442
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1128,
+         "WAK": "Banjarnegara",
+         "induk": 11,
+         "id": 445
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1124,
+         "WAK": "Temanggung",
+         "induk": 11,
+         "id": 454
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1133,
+         "WAK": "Brebes",
+         "induk": 11,
+         "id": 456
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1118,
+         "WAK": "Karanganyar",
+         "induk": 11,
+         "id": 459
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1122,
+         "WAK": "Magelang",
+         "induk": 11,
+         "id": 462
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1126,
+         "WAK": "Purworejo",
+         "induk": 11,
+         "id": 463
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1134,
+         "WAK": "Pemalang",
+         "induk": 11,
+         "id": 466
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1113,
+         "WAK": "Jepara",
+         "induk": 11,
+         "id": 468
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1110,
+         "WAK": "Grobogan",
+         "induk": 11,
+         "id": 470
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1117,
+         "WAK": "Boyolali",
+         "induk": 11,
+         "id": 471
+      },
+      {
+         "abv": "Jateng",
+         "KODE_BPN": 1119,
+         "WAK": "Klaten",
+         "induk": 11,
+         "id": 476
+      }
+   ],
+   "Jawa Timur": [
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1210,
+         "WAK": "Sidoarjo",
+         "induk": 12,
+         "id": 369
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1213,
+         "WAK": "Bangkalan",
+         "induk": 12,
+         "id": 370
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1219,
+         "WAK": "Lamongan",
+         "induk": 12,
+         "id": 376
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1232,
+         "WAK": "Probolinggo",
+         "induk": 12,
+         "id": 378
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1205,
+         "WAK": "Kota Blitar",
+         "induk": 12,
+         "id": 389
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1209,
+         "WAK": "Gresik",
+         "induk": 12,
+         "id": 393
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1235,
+         "WAK": "Situbondo",
+         "induk": 12,
+         "id": 394
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1237,
+         "WAK": "Banyuwangi",
+         "induk": 12,
+         "id": 395
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1221,
+         "WAK": "Ngawi",
+         "induk": 12,
+         "id": 399
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1239,
+         "WAK": "Kota Surabaya 2",
+         "induk": 12,
+         "id": 403
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1223,
+         "WAK": "Ponorogo",
+         "induk": 12,
+         "id": 412
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1202,
+         "WAK": "Kota Mojokerto",
+         "induk": 12,
+         "id": 416
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1208,
+         "WAK": "Kota Probolinggo",
+         "induk": 12,
+         "id": 419
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1222,
+         "WAK": "Magetan",
+         "induk": 12,
+         "id": 421
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1206,
+         "WAK": "Kota Malang",
+         "induk": 12,
+         "id": 422
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1215,
+         "WAK": "Sumenep",
+         "induk": 12,
+         "id": 423
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1217,
+         "WAK": "Bojonegoro",
+         "induk": 12,
+         "id": 424
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1214,
+         "WAK": "Sampang",
+         "induk": 12,
+         "id": 425
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1220,
+         "WAK": "Madiun",
+         "induk": 12,
+         "id": 428
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1218,
+         "WAK": "Tuban",
+         "induk": 12,
+         "id": 429
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1204,
+         "WAK": "Kota Kediri",
+         "induk": 12,
+         "id": 433
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1207,
+         "WAK": "Kota Pasuruan",
+         "induk": 12,
+         "id": 436
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1229,
+         "WAK": "Blitar",
+         "induk": 12,
+         "id": 440
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1212,
+         "WAK": "Jombang",
+         "induk": 12,
+         "id": 448
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1226,
+         "WAK": "Nganjuk",
+         "induk": 12,
+         "id": 449
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1216,
+         "WAK": "Pamekasan",
+         "induk": 12,
+         "id": 453
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1227,
+         "WAK": "Tulungagung",
+         "induk": 12,
+         "id": 455
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1232,
+         "WAK": "Pasuruan",
+         "induk": 12,
+         "id": 458
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1224,
+         "WAK": "Pacitan",
+         "induk": 12,
+         "id": 461
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1225,
+         "WAK": "Kediri",
+         "induk": 12,
+         "id": 465
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1233,
+         "WAK": "Lumajang",
+         "induk": 12,
+         "id": 474
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1236,
+         "WAK": "Bondowoso",
+         "induk": 12,
+         "id": 475
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1228,
+         "WAK": "Trenggalek",
+         "induk": 12,
+         "id": 478
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1234,
+         "WAK": "Jember",
+         "induk": 12,
+         "id": 479
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1230,
+         "WAK": "Malang",
+         "induk": 12,
+         "id": 485
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1211,
+         "WAK": "Mojokerto",
+         "induk": 12,
+         "id": 486
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1230,
+         "WAK": "Kota Batu",
+         "induk": 12,
+         "id": 487
+      },
+      {
+         "abv": "Jatim",
+         "KODE_BPN": 1201,
+         "WAK": "Kota Surabaya 1",
+         "induk": 12,
+         "id": 488
+      }
+   ],
+   "Jawa Barat": [
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1031,
+         "WAK": "Bandung Barat",
+         "induk": 10,
+         "id": 374
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1023,
+         "WAK": "Majalengka",
+         "induk": 10,
+         "id": 379
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1022,
+         "WAK": "Kuningan",
+         "induk": 10,
+         "id": 381
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1009,
+         "WAK": "Kota Bogor",
+         "induk": 10,
+         "id": 384
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1005,
+         "WAK": "Bekasi",
+         "induk": 10,
+         "id": 385
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1008,
+         "WAK": "Subang",
+         "induk": 10,
+         "id": 387
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1029,
+         "WAK": "Kota Tasikmalaya",
+         "induk": 10,
+         "id": 388
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1017,
+         "WAK": "Garut",
+         "induk": 10,
+         "id": 390
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1021,
+         "WAK": "Kota Cirebon",
+         "induk": 10,
+         "id": 392
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1024,
+         "WAK": "Indramayu",
+         "induk": 10,
+         "id": 404
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1007,
+         "WAK": "Purwakarta",
+         "induk": 10,
+         "id": 405
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1013,
+         "WAK": "Cianjur",
+         "induk": 10,
+         "id": 407
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1016,
+         "WAK": "Sumedang",
+         "induk": 10,
+         "id": 414
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1010,
+         "WAK": "Bogor",
+         "induk": 10,
+         "id": 418
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1027,
+         "WAK": "Kota Depok",
+         "induk": 10,
+         "id": 420
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1021,
+         "WAK": "Cirebon",
+         "induk": 10,
+         "id": 432
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1028,
+         "WAK": "Cimahi",
+         "induk": 10,
+         "id": 439
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1032,
+         "WAK": "Pangandaran",
+         "induk": 10,
+         "id": 443
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1030,
+         "WAK": "Kota Banjar",
+         "induk": 10,
+         "id": 444
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1012,
+         "WAK": "Kota Sukabumi",
+         "induk": 10,
+         "id": 447
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1011,
+         "WAK": "Sukabumi",
+         "induk": 10,
+         "id": 450
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1015,
+         "WAK": "Kota Bandung",
+         "induk": 10,
+         "id": 452
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1026,
+         "WAK": "Kota Bekasi",
+         "induk": 10,
+         "id": 460
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1014,
+         "WAK": "Bandung",
+         "induk": 10,
+         "id": 467
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1019,
+         "WAK": "Ciamis",
+         "induk": 10,
+         "id": 469
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1018,
+         "WAK": "Tasikmalaya",
+         "induk": 10,
+         "id": 473
+      },
+      {
+         "abv": "Jabar",
+         "KODE_BPN": 1006,
+         "WAK": "Karawang",
+         "induk": 10,
+         "id": 477
+      }
+   ],
+   "DKI Jakarta": [
+      {
+         "abv": "DKI",
+         "KODE_BPN": 905,
+         "WAK": "Kota Jakarta Utara",
+         "induk": 9,
+         "id": 380
+      },
+      {
+         "abv": "DKI",
+         "KODE_BPN": 904,
+         "WAK": "Kota Jakarta Timur",
+         "induk": 9,
+         "id": 397
+      },
+      {
+         "abv": "DKI",
+         "KODE_BPN": 902,
+         "WAK": "Kota Jakarta Selatan",
+         "induk": 9,
+         "id": 413
+      },
+      {
+         "abv": "DKI",
+         "KODE_BPN": 903,
+         "WAK": "Kota Jakarta Barat",
+         "induk": 9,
+         "id": 426
+      },
+      {
+         "abv": "DKI",
+         "KODE_BPN": 901,
+         "WAK": "Kota Jakarta Pusat",
+         "induk": 9,
+         "id": 446
+      }
+   ],
+   "Banten": [
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2805,
+         "WAK": "Kota Tangerang",
+         "induk": 28,
+         "id": 391
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2804,
+         "WAK": "Tangerang",
+         "induk": 28,
+         "id": 401
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2801,
+         "WAK": "Serang",
+         "induk": 28,
+         "id": 408
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2808,
+         "WAK": "Kota Serang",
+         "induk": 28,
+         "id": 411
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2802,
+         "WAK": "Pandeglang",
+         "induk": 28,
+         "id": 427
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2803,
+         "WAK": "Lebak",
+         "induk": 28,
+         "id": 434
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2806,
+         "WAK": "Kota Cilegon",
+         "induk": 28,
+         "id": 438
+      },
+      {
+         "abv": "Banten",
+         "KODE_BPN": 2807,
+         "WAK": "Kota Tangerang Selatan",
+         "induk": 28,
+         "id": 464
+      }
+   ],
+   "DI Yogyakarta": [
+      {
+         "abv": "DIY",
+         "KODE_BPN": 1305,
+         "WAK": "Kota Yogyakarta",
+         "induk": 13,
+         "id": 400
+      },
+      {
+         "abv": "DIY",
+         "KODE_BPN": 1302,
+         "WAK": "Gunung Kidul",
+         "induk": 13,
+         "id": 441
+      },
+      {
+         "abv": "DIY",
+         "KODE_BPN": 1304,
+         "WAK": "Sleman",
+         "induk": 13,
+         "id": 451
+      },
+      {
+         "abv": "DIY",
+         "KODE_BPN": 1303,
+         "WAK": "Kulonprogo",
+         "induk": 13,
+         "id": 457
+      },
+      {
+         "abv": "DIY",
+         "KODE_BPN": 1301,
+         "WAK": "Bantul",
+         "induk": 13,
+         "id": 472
+      }
+   ]
+}

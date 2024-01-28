@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LayoutDialog</class>
+ <widget class="QDialog" name="LayoutDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>410</width>
+    <height>501</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="11" column="2" colspan="4">
+    <widget class="QLineEdit" name="nip_pejabat"/>
+   </item>
+   <item row="14" column="0" colspan="2">
+    <widget class="QLabel" name="label_37">
+     <property name="text">
+      <string>Lisensi ASK</string>
+     </property>
+    </widget>
+   </item>
+   <item row="11" column="0" colspan="2">
+    <widget class="QLabel" name="label_35">
+     <property name="text">
+      <string>NIP Pejabat</string>
+     </property>
+    </widget>
+   </item>
+   <item row="14" column="2" colspan="4">
+    <widget class="QLineEdit" name="lisensi_ask"/>
+   </item>
+   <item row="15" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_skb"/>
+   </item>
+   <item row="10" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_pejabat"/>
+   </item>
+   <item row="8" column="0" colspan="6">
+    <widget class="Line" name="line_8">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="0">
+    <widget class="QLabel" name="label_31">
+     <property name="text">
+      <string>Kecamatan</string>
+     </property>
+    </widget>
+   </item>
+   <item row="13" column="0" colspan="2">
+    <widget class="QLabel" name="label_36">
+     <property name="text">
+      <string>Nama ASK</string>
+     </property>
+    </widget>
+   </item>
+   <item row="16" column="0" colspan="2">
+    <widget class="QLabel" name="label_39">
+     <property name="text">
+      <string>Lisensi SKB</string>
+     </property>
+    </widget>
+   </item>
+   <item row="18" column="0" colspan="2">
+    <widget class="QPushButton" name="btn_cancel">
+     <property name="text">
+      <string>Batalkan</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0">
+    <widget class="QLabel" name="label_30">
+     <property name="text">
+      <string>Nomor Peta Bidang</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_41">
+     <property name="text">
+      <string>Provinsi</string>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="0" colspan="2">
+    <widget class="QLabel" name="label_34">
+     <property name="text">
+      <string>Pejabat</string>
+     </property>
+    </widget>
+   </item>
+   <item row="18" column="2" colspan="2">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="16" column="2" colspan="4">
+    <widget class="QLineEdit" name="lisensi_skb"/>
+   </item>
+   <item row="13" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_ask"/>
+   </item>
+   <item row="2" column="0" colspan="6">
+    <widget class="Line" name="line_7">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_desa"/>
+   </item>
+   <item row="15" column="0" colspan="2">
+    <widget class="QLabel" name="label_38">
+     <property name="text">
+      <string>Nama SKB</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_provinsi"/>
+   </item>
+   <item row="9" column="0" colspan="2">
+    <widget class="QLabel" name="label_33">
+     <property name="text">
+      <string>Kantor Pertanahan</string>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="0">
+    <widget class="QLabel" name="label_32">
+     <property name="text">
+      <string>Desa</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_kantah"/>
+   </item>
+   <item row="18" column="5">
+    <widget class="QPushButton" name="btn_print_pdf">
+     <property name="text">
+      <string>Cetak PDF</string>
+     </property>
+    </widget>
+   </item>
+   <item row="18" column="4">
+    <widget class="QPushButton" name="btn_edit_layout">
+     <property name="text">
+      <string>Ubah Layout</string>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="0" colspan="6">
+    <widget class="Line" name="line_9">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0">
+    <widget class="QLabel" name="label_44">
+     <property name="text">
+      <string>Blok/RT</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="label_42">
+     <property name="text">
+      <string>Tanggal Peta Bidang</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2" colspan="4">
+    <widget class="QLineEdit" name="tgl_pbt"/>
+   </item>
+   <item row="4" column="0">
+    <widget class="QLabel" name="label_43">
+     <property name="text">
+      <string>Kabupaten</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_blok"/>
+   </item>
+   <item row="4" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_kabupaten"/>
+   </item>
+   <item row="0" column="2" colspan="4">
+    <widget class="QLineEdit" name="no_pbt"/>
+   </item>
+   <item row="17" column="0" colspan="6">
+    <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="2" colspan="4">
+    <widget class="QLineEdit" name="nama_kecamatan"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

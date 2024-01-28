@@ -1,0 +1,67 @@
+{
+	"basemaps": {
+		"bing_satellite": [{
+			"nama": "Bing Satellite ",
+			"url": "http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=0&dir=dir_n",
+			"type": "TMS",
+			"icon": "bing.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"esri_imagery": [{
+			"nama": "ESRI World Imagery",
+			"url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+			"type": "TMS",
+			"icon": "esri.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"google_imagery": [{
+			"nama": "Google Imagery",
+			"url": "http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}",
+			"type": "TMS",
+			"icon": "google.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"mapbox_satellite": [{
+			"nama": "Mapbox Satellite",
+			"url": "https://api.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaGFzdCIsImEiOiJjaWZlemZzcXgwMGZidGprbnB2cDlhM2ZmIn0.tGGwfSOhjensuUsfMOIY7A",
+			"type": "TMS",
+			"icon": "mapbox.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"google_hybrid": [{
+			"nama": "Google Hybrid",
+			"url": "https://mt1.google.com/vt/lyrs=y&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D",
+			"type": "TMS",
+			"icon": "google.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"openstreetmap": [{
+			"nama": "OpenStreetMap Default",
+			"url": "https://mt1.google.com/vt/lyrs=y&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D",
+			"type": "TMS",
+			"icon": "osm.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}],
+		"googlemaps": [{
+			"nama": "Google Maps Default",
+			"url": " https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}",
+			"type": "TMS",
+			"icon": "google.png",
+			"zmin": 1,
+			"zmax": 19,
+			"keterangan": ""
+		}]
+	}
+}

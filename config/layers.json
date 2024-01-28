@@ -1,0 +1,842 @@
+{
+"layers": {
+   "Layer Administrasi": [
+      {
+         "Kode": 10100,
+         "Nama Layer": "(10100) Batas Negara",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10200,
+         "Nama Layer": "(10200) Batas Propinsi",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10300,
+         "Nama Layer": "(10300) Batas Kabupaten / Kotamadya",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10400,
+         "Nama Layer": "(10400) Batas Kecamatan",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10500,
+         "Nama Layer": "(10500) Batas Kelurahan",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10600,
+         "Nama Layer": "(10600) Batas RW",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 10700,
+         "Nama Layer": "(10700) Batas RT",
+         "Tipe Layer": "Polygon",
+         "Style Path": "administrasi.qml",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Kadastral": [
+      {
+         "Kode": 20100,
+         "Nama Layer": "(20100) Batas Persil",
+         "Tipe Layer": "Polygon",
+         "Style Path": "simplepersil.qml",
+		 "Attributes": [
+			{
+				"key"			: "String",	 
+				"type"		: "String",
+				"label"		: "String",
+				"height"	: "String",
+				"rotation"	: "String"
+			}
+		 
+		 ]
+      },
+      {
+         "Kode": 20200,
+         "Nama Layer": "(20200) Batas Sub Persil",
+         "Tipe Layer": "LineString",
+         "Style Path": "simplepersil.qml",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 20300,
+         "Nama Layer": "(20300) Garis Garis Gambar Ukur",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": [
+			{
+				"No GU"		: "String",	 
+				"NIB"		: "String",
+				"Scan GU"	: "String"
+			}
+		 
+		 ]
+      },
+      {
+         "Kode": 20400,
+         "Nama Layer": "(20400) Dimensi Pengukuran",
+         "Tipe Layer": "LineString",
+         "Style Path": "dimension.qml",
+		 "Attributes": [
+			{
+				"Nilai"		: "String",	 
+				"Jenis"		: "String"
+			}
+		 
+		 ]
+      },
+      {
+         "Kode": 20500,
+         "Nama Layer": "(20500) Pagar Tembok",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 20600,
+         "Nama Layer": "(20600) Pagar Besi",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 20700,
+         "Nama Layer": "(20700) Pagar Kayu",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 20800,
+         "Nama Layer": "(20800) Pagar Bambu",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 20900,
+         "Nama Layer": "(20900) Pagar Hidup",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Perairan": [
+      {
+         "Kode": 30100,
+         "Nama Layer": "(30100) Batas Sungai",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 30200,
+         "Nama Layer": "(30200) Garis Tengah Sungai",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 30300,
+         "Nama Layer": "(30300) Batas Saluran Selokan",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 30400,
+         "Nama Layer": "(30400) Garis Tengah Saluran Selokan",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 30500,
+         "Nama Layer": "(30500) Danau",
+         "Tipe Layer": "Polygon",
+         "Style Path": "hidrologi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 30600,
+         "Nama Layer": "(30600) Rawa",
+         "Tipe Layer": "Polygon",
+         "Style Path": "hidrologi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 30700,
+         "Nama Layer": "(30700) Empang Kolam",
+         "Tipe Layer": "Polygon",
+         "Style Path": "hidrologi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 30800,
+         "Nama Layer": "(30800) Batas Pantai",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 30900,
+         "Nama Layer": "(30900) Dam",
+         "Tipe Layer": "Polygon",
+         "Style Path": "hidrologi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 31000,
+         "Nama Layer": "(31000) Galian",
+         "Tipe Layer": "Polygon",
+         "Style Path": "hidrologi.qml",
+         "Attributes": ""
+      }
+   ],
+   "Layer Transportasi": [
+      {
+         "Kode": 40100,
+         "Nama Layer": "(40100) Batas Jalan Diperkeras",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40200,
+         "Nama Layer": "(40200) Garis Tengah Jalan Diperkeras",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40300,
+         "Nama Layer": "(40300) Batas Trotoar",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40400,
+         "Nama Layer": "(40400) Batas Jalan Tanah",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40500,
+         "Nama Layer": "(40500) Garis Tengah Jalan Tanah",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40600,
+         "Nama Layer": "(40600) Batas Jalan Tanah Di Pemukiman",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40700,
+         "Nama Layer": "(40700) Garis Tengah Jalan Tanah Di Pemukiman",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40800,
+         "Nama Layer": "(40800) Batas Jalan Setapak Di Sawah",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 40900,
+         "Nama Layer": "(40900) Garis Tengah Jalan Setapak Di Sawah",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41000,
+         "Nama Layer": "(41000) Batas Rel Kereta Api",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41100,
+         "Nama Layer": "(41100) Garis Tengah Rel Kereta Api",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41200,
+         "Nama Layer": "(41200) Batas Rel Lori",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41300,
+         "Nama Layer": "(41300) Garis Tengah Rel Lori",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41400,
+         "Nama Layer": "(41400) Batas Jembatan",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 41500,
+         "Nama Layer": "(41500) Garis Tengah Jembatan",
+         "Tipe Layer": "LineString",
+         "Style Path": "transportasi.qml",
+         "Attributes": ""
+      }
+   ],
+   "Layer Titik Tinggi Geodesi": [
+      {
+         "Kode": 50100,
+         "Nama Layer": "(50100) Titik Tinggi Geodesi BPN",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 50200,
+         "Nama Layer": "(50200) Titik Tinggi Geodesi Instansi Lain",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Titik Dasar Teknis": [
+      {
+         "Kode": 60100,
+         "Nama Layer": "(60100) Titik Dasar Teknis Orde 0",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60200,
+         "Nama Layer": "(60200) Titik Dasar Teknis Orde 1",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60300,
+         "Nama Layer": "(60300) Titik Dasar Teknis Orde 2",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60400,
+         "Nama Layer": "(60400) Titik Dasar Teknis Orde 3",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60500,
+         "Nama Layer": "(60500) Titik Dasar Teknis Orde 4",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60600,
+         "Nama Layer": "(60600) Titik Dasar Teknis Perapatan",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60700,
+         "Nama Layer": "(60700) Titik Dasar Teknis Instansi Lain",
+         "Tipe Layer": "Point",
+         "Style Path": "TDT.qml",
+         "Attributes": ""
+      },
+      {
+         "Kode": 60800,
+         "Nama Layer": "(60800) Titik Pengukuran",
+         "Tipe Layer": "Point",
+         "Style Path": "titikpengukuran.qml",
+		 "Attributes": [
+			{
+				"Adjustment"		: "String",
+				"Alat"				: "String",	 
+				"Foto"				: "String",
+				"Ketelitian"		: "String",
+				"Metode"			: "String",
+				"Status Persetujuan": "String"
+			}
+		 
+		 ]
+      }
+   ],
+   "Layer Bangunan": [
+      {
+         "Kode": 70100,
+         "Nama Layer": "(70100) Bangunan Rumah",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70200,
+         "Nama Layer": "(70200) Bangunan Bertingkat",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70300,
+         "Nama Layer": "(70300) Menara Transmisi",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70400,
+         "Nama Layer": "(70400) Tiang Listrik",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70500,
+         "Nama Layer": "(70500) Tiang Telepon",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70600,
+         "Nama Layer": "(70600) Pipa",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 70700,
+         "Nama Layer": "(70700) Bangunan Tidak Permanen",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Teks": [
+      {
+         "Kode": 80101,
+         "Nama Layer": "(80101) Nama Negara",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80102,
+         "Nama Layer": "(80102) Nama Propinsi",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80103,
+         "Nama Layer": "(80103) Nama Kabupaten / Kotamadya",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80104,
+         "Nama Layer": "(80104) Nama Kecamatan",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80105,
+         "Nama Layer": "(80105) Nama Desa",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80106,
+         "Nama Layer": "(80106) Nama RW",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80107,
+         "Nama Layer": "(80107) Nama RT",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80201,
+         "Nama Layer": "(80201) NIB",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80202,
+         "Nama Layer": "(80202) Nomor SU",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80203,
+         "Nama Layer": "(80203) Nomor Hak",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80204,
+         "Nama Layer": "(80204) Kode Sub Persil",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80301,
+         "Nama Layer": "(80301) Nama Sungai",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80302,
+         "Nama Layer": "(80302) Nama Saluran Selokan",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80303,
+         "Nama Layer": "(80303) Nama Danau",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80304,
+         "Nama Layer": "(80304) Nama Rawa",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80305,
+         "Nama Layer": "(80305) Nama Empang Kolam",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80306,
+         "Nama Layer": "(80306) Nama Pantai",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80307,
+         "Nama Layer": "(80307) Nama Dam",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80308,
+         "Nama Layer": "(80308) Nama Galian",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80401,
+         "Nama Layer": "(80401) Nama Jalan Diperkeras",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80402,
+         "Nama Layer": "(80402) Nama Jalan Tanah",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80403,
+         "Nama Layer": "(80403) Nama Jalan Setapak Di Pemukiman",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80404,
+         "Nama Layer": "(80404) Nama Jalan Setapak Di Sawah",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80405,
+         "Nama Layer": "(80405) Nama Rel Kereta Api",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80406,
+         "Nama Layer": "(80406) Nama Rel Lori",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80407,
+         "Nama Layer": "(80407) Nama Jembatan",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80501,
+         "Nama Layer": "(80501) Identitas Titik Tinggi Geodesi BPN",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80502,
+         "Nama Layer": "(80502) Identitas Titik Tinggi Geodesi Instansi Lain",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80601,
+         "Nama Layer": "(80601) Identitas Titik Dasar Teknis Orde 0",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80602,
+         "Nama Layer": "(80602) Identitas Titik Dasar Teknis Orde 1",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80603,
+         "Nama Layer": "(80603) Identitas Titik Dasar Teknis Orde 2",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80604,
+         "Nama Layer": "(80604) Identitas Titik Dasar Teknis Orde 3",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80605,
+         "Nama Layer": "(80605) Identitas Titik Dasar Teknis Orde 4",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80606,
+         "Nama Layer": "(80606) Identitas Titik Dasar Teknis Perapatan",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80607,
+         "Nama Layer": "(80607) Identitas Titik Dasar Teknis Instansi Lain",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80608,
+         "Nama Layer": "(80608) Identitas Titik Pengukuran",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80701,
+         "Nama Layer": "(80701) Identitas Bangunan Rumah",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80702,
+         "Nama Layer": "(80702) Identitas Bangunan Bertingkat",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80703,
+         "Nama Layer": "(80703) Identitas Menara Transmisi",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80704,
+         "Nama Layer": "(80704) Identitas Tiang Listrik",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80705,
+         "Nama Layer": "(80705) Identitas Tiang Telepon",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80706,
+         "Nama Layer": "(80706) Identitas Pipa",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80707,
+         "Nama Layer": "(80707) Identitas Bangunan Tidak Permanen",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80901,
+         "Nama Layer": "(80901) Nama Kebun",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80902,
+         "Nama Layer": "(80902) Nama Sawah",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80903,
+         "Nama Layer": "(80903) Nama Tegalan Tanah Kosong",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 80904,
+         "Nama Layer": "(80904) Nama Hutan",
+         "Tipe Layer": "Point",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Penggunaan Lahan": [
+      {
+         "Kode": 90100,
+         "Nama Layer": "(90100) Kebun",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 90200,
+         "Nama Layer": "(90200) Sawah",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 90300,
+         "Nama Layer": "(90300) Tegalan Tanah Kosong",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 90400,
+         "Nama Layer": "(90400) Hutan",
+         "Tipe Layer": "Polygon",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Kontur": [
+      {
+         "Kode": 100100,
+         "Nama Layer": "(100100) Garis Kontur",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      },
+      {
+         "Kode": 100200,
+         "Nama Layer": "(100200) Garis Kontur Indeks",
+         "Tipe Layer": "LineString",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ],
+   "Layer Citra/Foto Udara": [
+      {
+         "Kode": 120100,
+         "Nama Layer": "(120100) Layer Citra Foto Udara",
+         "Tipe Layer": "Raster",
+         "Style Path": "",
+		 "Attributes": ""
+      }
+   ]
+}
+}

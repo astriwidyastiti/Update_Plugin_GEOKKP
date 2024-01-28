@@ -1,0 +1,32 @@
+{
+"default_layout": {
+   "Peta Bidang Tanah": [
+      {
+         "Ukuran": "A3",
+         "Lokasi": "pbt-a3.qpt"
+      }   
+   ],
+   "Gambar Ukur": [
+      {
+         "Ukuran": "A3",
+         "Lokasi": "gu-a3.qpt"
+      },
+      {
+         "Ukuran": "A4",
+         "Lokasi": "gu-a4.qpt"
+      } 
+   ],
+   "Surat Ukur": [
+      {
+         "Ukuran": "A3",
+         "Lokasi": "su-a3.qpt"
+      } 
+   ],
+   "Peta Pendaftaran": [
+      {
+         "Ukuran": "A3",
+         "Lokasi": "pdt-a3.qpt"
+      } 
+   ]
+}
+}
